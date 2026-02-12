@@ -33,7 +33,7 @@
 .samuel { color: green; }
 
 .name:hover {
-    text-shadow: 2px 2px 5px purple;
+    text-shadow: 3px 3px 6px purple;
     border: 2px solid purple;
 }
 
