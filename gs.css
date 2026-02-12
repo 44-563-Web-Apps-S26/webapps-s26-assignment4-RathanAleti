@@ -31,3 +31,9 @@
 .frederic { color: blue; }
 .pirateking { color: red; }
 .samuel { color: green; }
+
+.name:hover {
+    text-shadow: 2px 2px 5px purple;
+    border: 2px solid purple;
+}
+
